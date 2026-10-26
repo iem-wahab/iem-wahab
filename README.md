@@ -1,7 +1,7 @@
 
 # Hey, I'm Abdul Wahab!
 
-I'm a full-stack software engineer with 5+ years of experience building web applications, APIs, and integrations.
+I'm a full-stack software engineer with 5+ years of experience building and scaling software products, from early-stage MVPs to platforms used by thousands of people.
 
 I mainly work with Python, Django, Ruby on Rails, React, and PostgreSQL. I enjoy being involved in the entire development process, from understanding a problem and figuring out a solution to shipping it and improving it based on feedback. I've also worked closely with CEOs, clients, and other stakeholders to turn their needs into features people actually use.
 
