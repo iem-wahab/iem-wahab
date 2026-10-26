@@ -3,7 +3,7 @@
 
 I'm a full-stack software engineer with 5+ years of experience building web applications, APIs, and integrations.
 
-I mainly work with Python, Django, React, and PostgreSQL. I enjoy being involved in the entire development process, from understanding a problem and figuring out a solution to shipping it and improving it based on feedback. I've also worked closely with CEOs, clients, and other stakeholders to turn their needs into features people actually use.
+I mainly work with Python, Django, Ruby on Rails, React, and PostgreSQL. I enjoy being involved in the entire development process, from understanding a problem and figuring out a solution to shipping it and improving it based on feedback. I've also worked closely with CEOs, clients, and other stakeholders to turn their needs into features people actually use.
 
 ## What I'm working on
 
